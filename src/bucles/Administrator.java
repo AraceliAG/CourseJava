@@ -1,7 +1,8 @@
 package bucles;
 import java.util.Scanner;
 
-public class Administrator {
+public class
+Administrator {
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
